@@ -9,4 +9,5 @@ The .ipynb notebook included in the document was used to explore some central me
 
 *Written Report* NS4DA-MPFR-doc-3.docx.pdf
 *last Version of Gephi File* jazz.gephi
+*Excel File* jazz.xlsx
 *Video* https://www.canva.com/design/DAF_Z5qSRLo/84w_ZorZAaRXJIPg3YidDg/view?utm_content=DAF_Z5qSRLo&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
